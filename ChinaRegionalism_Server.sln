@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovjust.ChinaRegionalism.Server", "Ovjust.ChinaRegionalism.Server\Ovjust.ChinaRegionalism.Server.csproj", "{DFDFF48A-0109-45BF-9F1C-4CB54985CE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDFF48A-0109-45BF-9F1C-4CB54985CE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDFF48A-0109-45BF-9F1C-4CB54985CE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDFF48A-0109-45BF-9F1C-4CB54985CE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDFF48A-0109-45BF-9F1C-4CB54985CE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
